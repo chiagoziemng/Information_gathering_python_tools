@@ -1,0 +1,11 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+psutil==6.0.0
+python-dateutil==2.9.0.post0
+python-whois==0.9.4
+pywin32==306
+requests==2.32.3
+setuptools==72.1.0
+six==1.16.0
+urllib3==2.2.2

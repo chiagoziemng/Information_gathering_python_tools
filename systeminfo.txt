@@ -1,0 +1,527 @@
+Username: E-TECH
+IP Address: 172.29.240.1
+OS Information: uname_result(system='Windows', node='DESKTOP-542RFNG', release='10', version='10.0.19045', machine='AMD64')
+Environment Variables:
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\E-TECH\AppData\Roaming
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: DESKTOP-542RFNG
+COMSPEC: C:\Windows\system32\cmd.exe
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING: Default
+HOMEDRIVE: C:
+HOMEPATH: \Users\E-TECH
+LOCALAPPDATA: C:\Users\E-TECH\AppData\Local
+LOGONSERVER: \\DESKTOP-542RFNG
+NUMBER_OF_PROCESSORS: 4
+ONEDRIVE: C:\Users\E-TECH\OneDrive
+OS: Windows_NT
+PATH: C:\Users\E-TECH\Envs\whois\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\E-TECH\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\E-TECH\AppData\Local\Programs\Python\Python312\;C:\Users\E-TECH\AppData\Local\Programs\Python\Launcher\;C:\Users\E-TECH\AppData\Local\Microsoft\WindowsApps;C:\Users\E-TECH\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 37 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 2502
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PROMPT: (whois) $P$G
+PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\
+PUBLIC: C:\Users\Public
+SESSIONNAME: Console
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\Windows
+TEMP: C:\Users\E-TECH\AppData\Local\Temp
+TMP: C:\Users\E-TECH\AppData\Local\Temp
+USERDOMAIN: DESKTOP-542RFNG
+USERDOMAIN_ROAMINGPROFILE: DESKTOP-542RFNG
+USERNAME: E-TECH
+USERPROFILE: C:\Users\E-TECH
+VENV: whois
+VIRTUALENVWRAPPER_PROJECT_FILENAME: .project
+VIRTUAL_ENV: C:\Users\E-TECH\Envs\whois
+VIRTUAL_ENV_PROMPT: whois
+WINDIR: C:\Windows
+WORKON_HOME: C:\Users\E-TECH\Envs
+_OLD_VIRTUAL_PATH: C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\E-TECH\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\E-TECH\AppData\Local\Programs\Python\Python312\;C:\Users\E-TECH\AppData\Local\Programs\Python\Launcher\;C:\Users\E-TECH\AppData\Local\Microsoft\WindowsApps;C:\Users\E-TECH\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin
+_OLD_VIRTUAL_PROMPT: $P$G
+CPU Information:
+user: 37513.078125
+system: 21809.04687499997
+idle: 144038.328125
+interrupt: 1069.875
+dpc: 697.765625
+Memory Information:
+total: 4082995200
+available: 657686528
+percent: 83.9
+used: 3425308672
+free: 657686528
+Disk Information:
+sdiskusage(total=255504191488, used=105742290944, free=149761900544, percent=41.4)
+Battery Information:
+sbattery(percent=100, secsleft=<BatteryTime.POWER_TIME_UNLIMITED: -2>, power_plugged=True)
+CPU Frequency: scpufreq(current=2400.0, min=0.0, max=2400.0)
+Logical CPU Count: 4
+Physical CPU Count: 2
+MAC Address: 00:01:05:16:5b:6d
+Network Interfaces:
+Ethernet: [snicaddr(family=<AddressFamily.AF_LINK: -1>, address='A4-BA-DB-D4-01-6D', netmask=None, broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET: 2>, address='169.254.137.69', netmask='255.255.0.0', broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET6: 23>, address='fe80::e29:2bff:940e:8907', netmask=None, broadcast=None, ptp=None)]
+vEthernet (Default Switch): [snicaddr(family=<AddressFamily.AF_LINK: -1>, address='00-15-5D-FF-5F-12', netmask=None, broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET: 2>, address='172.29.240.1', netmask='255.255.240.0', broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET6: 23>, address='fe80::16bd:c852:22a:d828', netmask=None, broadcast=None, ptp=None)]
+Wi-Fi: [snicaddr(family=<AddressFamily.AF_LINK: -1>, address='48-5D-60-A7-AA-DA', netmask=None, broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET: 2>, address='192.168.43.48', netmask='255.255.255.0', broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET6: 23>, address='fe80::e059:856d:c55c:6738', netmask=None, broadcast=None, ptp=None)]
+Loopback Pseudo-Interface 1: [snicaddr(family=<AddressFamily.AF_INET: 2>, address='127.0.0.1', netmask='255.0.0.0', broadcast=None, ptp=None), snicaddr(family=<AddressFamily.AF_INET6: 23>, address='::1', netmask=None, broadcast=None, ptp=None)]
+Network Statistics:
+Ethernet: snicstats(isup=False, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=0, mtu=1500, flags='')
+vEthernet (Default Switch): snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=4294, mtu=1500, flags='')
+Loopback Pseudo-Interface 1: snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=1073, mtu=1500, flags='')
+Wi-Fi: snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=72, mtu=1500, flags='')
+Network IO Counters:
+bytes_sent: 9930450
+bytes_recv: 94034917
+packets_sent: 65399
+packets_recv: 80806
+errin: 0
+errout: 1280
+dropin: 0
+dropout: 0
+Python Version: 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]
+Installed Packages:
+- autocommand==2.2.2
+- backports.tarfile==1.2.0
+- certifi==2024.7.4
+- charset-normalizer==3.3.2
+- idna==3.7
+- importlib-metadata==8.0.0
+- importlib-resources==6.4.0
+- inflect==7.3.1
+- jaraco.context==5.3.0
+- jaraco.functools==4.0.1
+- jaraco.text==3.12.1
+- more-itertools==10.3.0
+- ordered-set==4.1.0
+- packaging==24.1
+- pip==24.1.2
+- platformdirs==4.2.2
+- psutil==6.0.0
+- python-dateutil==2.9.0.post0
+- python-whois==0.9.4
+- pywin32==306
+- requests==2.32.3
+- scapy==2.5.0
+- setuptools==72.1.0
+- six==1.16.0
+- tomli==2.0.1
+- typeguard==4.3.0
+- typing-extensions==4.12.2
+- urllib3==2.2.2
+- wheel==0.43.0
+- zipp==3.19.2
+Running Processes:
+- PID: 0, Name: System Idle Process, User: NT AUTHORITY\SYSTEM
+- PID: 4, Name: System, User: NT AUTHORITY\SYSTEM
+- PID: 56, Name: , User: None
+- PID: 104, Name: Registry, User: None
+- PID: 240, Name: OneDrive.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 420, Name: smss.exe, User: None
+- PID: 540, Name: powershell.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 560, Name: svchost.exe, User: None
+- PID: 568, Name: csrss.exe, User: None
+- PID: 676, Name: wininit.exe, User: None
+- PID: 752, Name: powershell.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 796, Name: services.exe, User: None
+- PID: 808, Name: LsaIso.exe, User: None
+- PID: 828, Name: lsass.exe, User: None
+- PID: 864, Name: svchost.exe, User: None
+- PID: 956, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 960, Name: svchost.exe, User: None
+- PID: 972, Name: AggregatorHost.exe, User: None
+- PID: 988, Name: fontdrvhost.exe, User: None
+- PID: 1108, Name: svchost.exe, User: None
+- PID: 1136, Name: svchost.exe, User: None
+- PID: 1180, Name: svchost.exe, User: None
+- PID: 1200, Name: StartMenuExperienceHost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 1268, Name: svchost.exe, User: None
+- PID: 1288, Name: svchost.exe, User: None
+- PID: 1424, Name: svchost.exe, User: None
+- PID: 1472, Name: svchost.exe, User: None
+- PID: 1504, Name: svchost.exe, User: None
+- PID: 1528, Name: svchost.exe, User: None
+- PID: 1616, Name: svchost.exe, User: None
+- PID: 1648, Name: svchost.exe, User: None
+- PID: 1684, Name: svchost.exe, User: None
+- PID: 1736, Name: svchost.exe, User: None
+- PID: 1900, Name: svchost.exe, User: None
+- PID: 1956, Name: vmms.exe, User: None
+- PID: 2000, Name: svchost.exe, User: None
+- PID: 2076, Name: sqlservr.exe, User: None
+- PID: 2120, Name: svchost.exe, User: None
+- PID: 2128, Name: svchost.exe, User: None
+- PID: 2136, Name: svchost.exe, User: None
+- PID: 2192, Name: svchost.exe, User: None
+- PID: 2204, Name: svchost.exe, User: None
+- PID: 2212, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2228, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2256, Name: Apoint.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2288, Name: svchost.exe, User: None
+- PID: 2348, Name: svchost.exe, User: None
+- PID: 2400, Name: svchost.exe, User: None
+- PID: 2412, Name: FileCoAuth.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2444, Name: svchost.exe, User: None
+- PID: 2452, Name: svchost.exe, User: None
+- PID: 2508, Name: MemCompression, User: None
+- PID: 2552, Name: svchost.exe, User: None
+- PID: 2556, Name: svchost.exe, User: None
+- PID: 2572, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2584, Name: svchost.exe, User: None
+- PID: 2644, Name: hidemesvc.exe, User: None
+- PID: 2668, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2684, Name: svchost.exe, User: None
+- PID: 2716, Name: svchost.exe, User: None
+- PID: 2784, Name: svchost.exe, User: None
+- PID: 2848, Name: svchost.exe, User: None
+- PID: 2852, Name: svchost.exe, User: None
+- PID: 2904, Name: UserOOBEBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 2964, Name: svchost.exe, User: None
+- PID: 3040, Name: dwm.exe, User: None
+- PID: 3084, Name: svchost.exe, User: None
+- PID: 3112, Name: svchost.exe, User: None
+- PID: 3152, Name: svchost.exe, User: None
+- PID: 3220, Name: spoolsv.exe, User: None
+- PID: 3328, Name: svchost.exe, User: None
+- PID: 3448, Name: svchost.exe, User: None
+- PID: 3504, Name: svchost.exe, User: None
+- PID: 3512, Name: svchost.exe, User: None
+- PID: 3520, Name: svchost.exe, User: None
+- PID: 3528, Name: svchost.exe, User: None
+- PID: 3552, Name: svchost.exe, User: None
+- PID: 3556, Name: svchost.exe, User: None
+- PID: 3568, Name: svchost.exe, User: None
+- PID: 3576, Name: DellFFDPWmiService.exe, User: None
+- PID: 3588, Name: svchost.exe, User: None
+- PID: 3620, Name: sqlceip.exe, User: None
+- PID: 3624, Name: svchost.exe, User: None
+- PID: 3740, Name: HidMonitorSvc.exe, User: None
+- PID: 3748, Name: HPSIsvc.exe, User: None
+- PID: 3760, Name: armsvc.exe, User: None
+- PID: 3768, Name: SurSvc.exe, User: None
+- PID: 3796, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 3820, Name: MsMpEng.exe, User: None
+- PID: 3880, Name: sqlwriter.exe, User: None
+- PID: 3888, Name: DSAService.exe, User: None
+- PID: 3896, Name: MpDefenderCoreService.exe, User: None
+- PID: 3916, Name: svchost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 3932, Name: wslservice.exe, User: None
+- PID: 3960, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 4004, Name: svchost.exe, User: None
+- PID: 4060, Name: OfficeClickToRun.exe, User: None
+- PID: 4116, Name: esrv_svc.exe, User: None
+- PID: 4140, Name: SearchApp.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 4216, Name: svchost.exe, User: None
+- PID: 4256, Name: svchost.exe, User: None
+- PID: 4320, Name: svchost.exe, User: None
+- PID: 4368, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 4508, Name: svchost.exe, User: None
+- PID: 4716, Name: WhatsApp.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 4768, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5192, Name: python.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5196, Name: ctfmon.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5244, Name: vmcompute.exe, User: None
+- PID: 5288, Name: svchost.exe, User: None
+- PID: 5332, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5436, Name: LockApp.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5460, Name: python.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5500, Name: esrv.exe, User: None
+- PID: 5572, Name: svchost.exe, User: None
+- PID: 5624, Name: python.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5636, Name: svchost.exe, User: None
+- PID: 5684, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5752, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 5896, Name: svchost.exe, User: None
+- PID: 6032, Name: dllhost.exe, User: None
+- PID: 6256, Name: igfxtray.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 6264, Name: SearchIndexer.exe, User: None
+- PID: 6292, Name: Hide.me.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 6380, Name: svchost.exe, User: None
+- PID: 6384, Name: fontdrvhost.exe, User: None
+- PID: 6388, Name: svchost.exe, User: None
+- PID: 6420, Name: Microsoft.Media.Player.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 6516, Name: svchost.exe, User: None
+- PID: 6588, Name: svchost.exe, User: None
+- PID: 6712, Name: AcroRd32.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 7048, Name: DSAUpdateService.exe, User: None
+- PID: 7112, Name: svchost.exe, User: None
+- PID: 7316, Name: NisSrv.exe, User: None
+- PID: 7584, Name: svchost.exe, User: None
+- PID: 7588, Name: svchost.exe, User: None
+- PID: 7776, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 7784, Name: svchost.exe, User: None
+- PID: 7820, Name: dllhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 7912, Name: taskhostw.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 7924, Name: svchost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 8152, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 8248, Name: SearchFilterHost.exe, User: None
+- PID: 8312, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 8340, Name: SecurityHealthService.exe, User: None
+- PID: 8520, Name: hidfind.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 8740, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 8832, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 8976, Name: ApMsgFwd.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9076, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9224, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9272, Name: svchost.exe, User: None
+- PID: 9412, Name: SearchApp.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9440, Name: winlogon.exe, User: None
+- PID: 9676, Name: SgrmBroker.exe, User: None
+- PID: 9684, Name: AcroRd32.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9744, Name: sihost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9864, Name: powershell.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9888, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 9896, Name: svchost.exe, User: None
+- PID: 10100, Name: svchost.exe, User: None
+- PID: 10188, Name: svchost.exe, User: None
+- PID: 10228, Name: svchost.exe, User: None
+- PID: 10736, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 10792, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 10840, Name: cmd.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 10860, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 10924, Name: pet.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 10932, Name: powershell.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 10952, Name: pet.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11028, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11044, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11152, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11560, Name: SDXHelper.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11744, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11792, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11864, Name: svchost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11872, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 11944, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12148, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12152, Name: SearchProtocolHost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12172, Name: igfxpers.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12224, Name: ApplicationFrameHost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12312, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12380, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 12608, Name: svchost.exe, User: None
+- PID: 13056, Name: svchost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13064, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13108, Name: csrss.exe, User: None
+- PID: 13252, Name: svchost.exe, User: None
+- PID: 13336, Name: python.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13348, Name: taskhostw.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13384, Name: msedge.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13448, Name: SecurityHealthSystray.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13508, Name: ShellExperienceHost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13532, Name: ApntEx.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 13712, Name: RuntimeBroker.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 14004, Name: conhost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 14124, Name: explorer.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 14180, Name: conhost.exe, User: None
+- PID: 14468, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 14712, Name: hkcmd.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 14720, Name: TextInputHost.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 14836, Name: SystemSettings.exe, User: DESKTOP-542RFNG\E-TECH
+- PID: 15148, Name: WmiPrvSE.exe, User: None
+- PID: 15208, Name: svchost.exe, User: None
+- PID: 15276, Name: Code.exe, User: DESKTOP-542RFNG\E-TECH
+Home Directory Content:
+- C:\Users\E-TECH\.anaconda
+- C:\Users\E-TECH\.bash_history
+- C:\Users\E-TECH\.cache
+- C:\Users\E-TECH\.conda
+- C:\Users\E-TECH\.condarc
+- C:\Users\E-TECH\.continuum
+- C:\Users\E-TECH\.docker
+- C:\Users\E-TECH\.dotnet
+- C:\Users\E-TECH\.gitconfig
+- C:\Users\E-TECH\.ipynb_checkpoints
+- C:\Users\E-TECH\.ipython
+- C:\Users\E-TECH\.jupyter
+- C:\Users\E-TECH\.matplotlib
+- C:\Users\E-TECH\.spyder-py3
+- C:\Users\E-TECH\.templateengine
+- C:\Users\E-TECH\.virtual_documents
+- C:\Users\E-TECH\.vscode
+- C:\Users\E-TECH\3D Objects
+- C:\Users\E-TECH\anaconda3
+- C:\Users\E-TECH\AppData
+- C:\Users\E-TECH\Application Data
+- C:\Users\E-TECH\Contacts
+- C:\Users\E-TECH\Cookies
+- C:\Users\E-TECH\Desktop
+- C:\Users\E-TECH\Documents
+- C:\Users\E-TECH\Downloads
+- C:\Users\E-TECH\Envs
+- C:\Users\E-TECH\ex1.py
+- C:\Users\E-TECH\Favorites
+- C:\Users\E-TECH\first.py
+- C:\Users\E-TECH\firstcode.ipynb
+- C:\Users\E-TECH\firstpy.py
+- C:\Users\E-TECH\Links
+- C:\Users\E-TECH\Local Settings
+- C:\Users\E-TECH\Music
+- C:\Users\E-TECH\My Documents
+- C:\Users\E-TECH\NetHood
+- C:\Users\E-TECH\New folder
+- C:\Users\E-TECH\NTUSER.DAT
+- C:\Users\E-TECH\ntuser.dat.LOG1
+- C:\Users\E-TECH\ntuser.dat.LOG2
+- C:\Users\E-TECH\NTUSER.DAT{d15d438a-c432-11ee-94c0-a4badbd4016d}.TM.blf
+- C:\Users\E-TECH\NTUSER.DAT{d15d438a-c432-11ee-94c0-a4badbd4016d}.TMContainer00000000000000000001.regtrans-ms
+- C:\Users\E-TECH\NTUSER.DAT{d15d438a-c432-11ee-94c0-a4badbd4016d}.TMContainer00000000000000000002.regtrans-ms
+- C:\Users\E-TECH\ntuser.ini
+- C:\Users\E-TECH\OneDrive
+- C:\Users\E-TECH\Pictures
+- C:\Users\E-TECH\Postman
+- C:\Users\E-TECH\PrintHood
+- C:\Users\E-TECH\Recent
+- C:\Users\E-TECH\Saved Games
+- C:\Users\E-TECH\Searches
+- C:\Users\E-TECH\SendTo
+- C:\Users\E-TECH\source
+- C:\Users\E-TECH\Start Menu
+- C:\Users\E-TECH\Templates
+- C:\Users\E-TECH\took.ipynb
+- C:\Users\E-TECH\Untitled.ipynb
+- C:\Users\E-TECH\untitled.py
+- C:\Users\E-TECH\untitled.txt
+- C:\Users\E-TECH\untitled1.py
+- C:\Users\E-TECH\untitled2.py
+- C:\Users\E-TECH\untitled3.py
+- C:\Users\E-TECH\untitled4.py
+- C:\Users\E-TECH\untitled5.py
+- C:\Users\E-TECH\Videos
+Documents Directory Content:
+- C:\Users\E-TECH\Documents\allThings
+- C:\Users\E-TECH\Documents\APIS
+- C:\Users\E-TECH\Documents\camera
+- C:\Users\E-TECH\Documents\class24
+- C:\Users\E-TECH\Documents\Custom Office Templates
+- C:\Users\E-TECH\Documents\desktop.ini
+- C:\Users\E-TECH\Documents\doc
+- C:\Users\E-TECH\Documents\image
+- C:\Users\E-TECH\Documents\My Music
+- C:\Users\E-TECH\Documents\My Pictures
+- C:\Users\E-TECH\Documents\My Videos
+- C:\Users\E-TECH\Documents\project2024
+- C:\Users\E-TECH\Documents\Python Scripts
+- C:\Users\E-TECH\Documents\remote
+- C:\Users\E-TECH\Documents\Sound recordings
+- C:\Users\E-TECH\Documents\SQL Server Management Studio
+- C:\Users\E-TECH\Documents\videoFromWhatsapp
+- C:\Users\E-TECH\Documents\Visual Studio 2017
+- C:\Users\E-TECH\Documents\Visual Studio 2022
+Pictures Directory Content:
+- C:\Users\E-TECH\Pictures\.thumbnails
+- C:\Users\E-TECH\Pictures\2022-04-18-13_39_10-Screenshot-147.png
+- C:\Users\E-TECH\Pictures\Add a heading.png
+- C:\Users\E-TECH\Pictures\Camera Roll
+- C:\Users\E-TECH\Pictures\desktop.ini
+- C:\Users\E-TECH\Pictures\Dopamine-Detox_02-Addictive-Dopamine-Boosters-Inline-Image.png
+- C:\Users\E-TECH\Pictures\Dopamine-Detox_04-Dopamine-Detox-Duration-Inline-Image.png
+- C:\Users\E-TECH\Pictures\Dopamine-Detox_06-Dopamine-Centered-Addictions-Inline-Image.png
+- C:\Users\E-TECH\Pictures\Dopamine-Detox_07-Dopamine-Tolerance-Inline-Image.png
+- C:\Users\E-TECH\Pictures\Dopamine-Detox_10-Dopamine-Reset-Inline-Image.png
+- C:\Users\E-TECH\Pictures\PhotosEditor
+- C:\Users\E-TECH\Pictures\Remini
+- C:\Users\E-TECH\Pictures\Saved Pictures
+- C:\Users\E-TECH\Pictures\Screenshots
+- C:\Users\E-TECH\Pictures\Twitter
+- C:\Users\E-TECH\Pictures\wed
+- C:\Users\E-TECH\Pictures\Whatsapp
+Music Directory Content:
+- C:\Users\E-TECH\Music\desktop.ini
+Videos Directory Content:
+- C:\Users\E-TECH\Videos\01_validating_a_domain_name.mkv
+- C:\Users\E-TECH\Videos\02_extracting_domain_info.mkv
+- C:\Users\E-TECH\Videos\Afamefuna.An.Nwa.Boi.Story.2024.480p.Esub.mkv
+- C:\Users\E-TECH\Videos\All’s.Fair.in.Love.480p.mkv
+- C:\Users\E-TECH\Videos\Atlas.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Boy.Kills.World.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Captures
+- C:\Users\E-TECH\Videos\Chief.of.Station.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Code.8.(NKIRI.COM).2019.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Code.8.Part.II.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\desktop.ini
+- C:\Users\E-TECH\Videos\Dune.Part.Two.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Lift.2024.720p.@moviebuff.mkv
+- C:\Users\E-TECH\Videos\newz
+- C:\Users\E-TECH\Videos\Noryang.Deadly.Sea.(NKIRI.COM).2023.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Rebel.Moon.Part.Two.The.Scargiver.(NKIRI.COM).2024.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\Road.House.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\seeker1
+- C:\Users\E-TECH\Videos\The.Pirates.(NKIRI.COM).2014.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv
+- C:\Users\E-TECH\Videos\What.You.Wish.For.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
+System Logs Count: None
+Internet Connection Status: True
+Public IP Address: 105.112.237.55
+Current Date and Time: 2024-08-01 14:22:42.149289
+Screen Resolution: 1280x800
+Clipboard Content: import os
+import sys
+import socket
+import psutil
+import platform
+import datetime
+import uuid
+import requests
+import pkg_resources  # Add this import
+import ctypes
+from django.shortcuts import render
+from django.http import HttpResponse
+
+def get_system_info():
+    username = os.getlogin()
+    hostname = socket.gethostname()
+    ip_address = socket.gethostbyname(hostname)
+    os_info = platform.uname()
+    cpu_info = psutil.cpu_times()
+    memory_info = psutil.virtual_memory()
+    disk_info = psutil.disk_usage('/')
+    battery = psutil.sensors_battery()
+    cpu_freq = psutil.cpu_freq()
+    cpu_count_logical = psutil.cpu_count()
+    cpu_count_physical = psutil.cpu_count(logical=False)
+    mac_address = ':'.join(['{:02x}'.format((uuid.getnode() >> elements) & 0xff) for elements in range(0, 2*6, 2)][::-1])
+    net_info = psutil.net_if_addrs()
+    python_version = sys.version
+    installed_packages = sorted(["%s==%s" % (i.key, i.version) for i in pkg_resources.working_set])
+    running_processes = [proc.info for proc in psutil.process_iter(['pid', 'name', 'username'])]
+    public_ip = requests.get('https://api.ipify.org').text
+    current_time = datetime.datetime.now()
+    screen_width = ctypes.windll.user32.GetSystemMetrics(0)
+    screen_height = ctypes.windll.user32.GetSystemMetrics(1)
+
+    return {
+        'username': username,
+        'hostname': hostname,
+        'ip_address': ip_address,
+        'os_info': os_info,
+        'cpu_info': cpu_info,
+        'memory_info': memory_info,
+        'disk_info': disk_info,
+        'battery': battery,
+        'cpu_freq': cpu_freq,
+        'cpu_count_logical': cpu_count_logical,
+        'cpu_count_physical': cpu_count_physical,
+        'mac_address': mac_address,
+        'net_info': net_info,
+        'python_version': python_version,
+        'installed_packages': installed_packages,
+        'running_processes': running_processes,
+        'public_ip': public_ip,
+        'current_time': current_time,
+        'screen_width': screen_width,
+        'screen_height': screen_height,
+    }
+
+def index(request):
+    system_info = get_system_info()
+    return render(request, 'systeminfo/index.html', {'system_info': system_info})
+
+User Login Sessions:
+- User: E-TECH, Terminal: None, Host: None, Logged in Time: 1722457636.0462115
