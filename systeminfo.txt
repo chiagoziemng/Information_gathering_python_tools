@@ -439,7 +439,7 @@ Videos Directory Content:
 - C:\Users\E-TECH\Videos\01_validating_a_domain_name.mkv
 - C:\Users\E-TECH\Videos\02_extracting_domain_info.mkv
 - C:\Users\E-TECH\Videos\Afamefuna.An.Nwa.Boi.Story.2024.480p.Esub.mkv
-- C:\Users\E-TECH\Videos\All’s.Fair.in.Love.480p.mkv
+- C:\Users\E-TECH\Videos\Allï¿½s.Fair.in.Love.480p.mkv
 - C:\Users\E-TECH\Videos\Atlas.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
 - C:\Users\E-TECH\Videos\Boy.Kills.World.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
 - C:\Users\E-TECH\Videos\Captures
@@ -457,7 +457,7 @@ Videos Directory Content:
 - C:\Users\E-TECH\Videos\The.Pirates.(NKIRI.COM).2014.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv
 - C:\Users\E-TECH\Videos\What.You.Wish.For.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv
 System Logs Count: None
-Internet Connection Status: True
+Internet ConnectioDocum Status: True
 Public IP Address: 105.112.237.55
 Current Date and Time: 2024-08-01 14:22:42.149289
 Screen Resolution: 1280x800

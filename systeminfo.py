@@ -147,7 +147,7 @@ screen_height = ctypes.windll.user32.GetSystemMetrics(1)
 
 root = tk.Tk()
 root.withdraw()
-clipboard_content = root.clipboard_get()
+#clipboard_content = root.clipboard_get()
 
 user_sessions = psutil.users()
 
@@ -193,7 +193,7 @@ with open("systeminfo.txt", "w") as file:
     file.write(f"Public IP Address: {public_ip}\n")
     file.write(f"Current Date and Time: {current_time}\n")
     file.write(f"Screen Resolution: {screen_width}x{screen_height}\n")
-    file.write(f"Clipboard Content: {clipboard_content}\n")
+    #file.write(f"Clipboard Content: {clipboard_content}\n")
     file.write(f"User Login Sessions:\n{format_list([f'User: {user.name}, Terminal: {user.terminal}, Host: {user.host}, Logged in Time: {user.started}' for user in user_sessions])}\n")
 
 # Print collected information
@@ -229,7 +229,7 @@ print(f"Internet Connection Status: {internet_status}")
 print(f"Public IP Address: {public_ip}")
 print(f"Current Date and Time: {current_time}")
 print(f"Screen Resolution: {screen_width}x{screen_height}")
-print(f"Clipboard Content: {clipboard_content}")
+#print(f"Clipboard Content: {clipboard_content}")
 print(f"User Login Sessions: {user_sessions}")
 
 

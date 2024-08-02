@@ -1,7 +1,7 @@
 import dns.resolver
 
 # set the target domain and record type
-target_domain = "pfx.com.ng"
+target_domain = "thepythoncode.com"
 record_types = [ "A", "AAAA", "CNAME", "MX", "NS", "SOA", "TXT"]
 
 # Create a DNS resolver
